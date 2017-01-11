@@ -1,6 +1,8 @@
-body{background-image:url('../assets/bi..jpg');}
+body{background-image:url('../assets/bi..jpg'); background-attachment: fixed; position: relative; background-size:cover;}
 #mypic{width:200px; height: 200px;}
-h2{color:green; text-align:center;}
-#hl{background-color:black; height:3px;}
-#my{color: #085faf; font-size: 20px;}
-#myl{color: #085faf; font-size: 30px;}
+h2{color:white; text-align:center;}
+#hl{background-color:white; height:3px;}
+#my{color: white; font-size: 20px; text-align: center;}
+#myl{color: white; font-size: 30px; }
+h1{color:white; text-align:center;}
+#ji{color:white; font-size: 20px;font-style: italic;}
