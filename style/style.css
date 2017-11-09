@@ -2,11 +2,23 @@ body{background-image:url('../assets/bi..jpg'); background-attachment: fixed; po
 #mypic{width:200px; height: 200px;}
 h2{color:white; text-align:center;}
 #hl{background-color:white; height:3px;}
-#my{color: white; font-size: 20px; text-align: center;}
-#myl{color: yellow; font-size: 30px; }
+#my{color: rgb(248, 112, 153); font-size: 20px; text-align: center;}
+#myl{color: rgb(243, 112, 153); font-size: 30px; }
 h1{color:white; text-align:center;}
 #ji{color:white; font-size: 20px;font-style: italic;}
-#second{background-color:rgba(241, 81, 12,0.7);}
+#second{background-color:rgba(65, 65, 57,0.5);}
 #third{background-color: rgba(157, 34, 75,0.5);}
-#first{background-color: rgba(10, 1, 15,0.2);}
-#fourth{background-color:rgba(211, 245, 218 ,0.1); color:white;}
+#first{background-color: rgba(65, 65, 57,0.5);}
+#fourth{background-color:rgba(65, 65, 57, 0.5); color:white;}
+#line1{color: red;}
+#line2{color: rgb(247, 215, 74);}
+#line3{color: rgb(38, 233, 38);}
+#line4{color: orangered;}
+#a{color: rgb(253, 69, 69);}
+#b{color: orangered;}
+#o{color: yellow;}
+#u{color: rgb(48, 224, 48);}
+#t{color: rgb(101, 150, 243);}
+#m{color: rgb(166, 58, 228);}
+#e{color: violet;}
+#brackets{color: rgb(23, 238, 105)}
